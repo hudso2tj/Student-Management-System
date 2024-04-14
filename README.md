@@ -10,7 +10,7 @@ This console-based application is used as a student enrollment system that a col
 6. Print the roster of a course
 7. Exit
 
-#What I learned
+# What I learned
 - How to code using object-oriented programming
 - How to work through more complex logic
 - Coding as a part of a small team
