@@ -1,6 +1,6 @@
 # Student-Management-System
 
-This console-based application is used as a student enrollment system that a college would use. Upon starting the program a user is given the options to:
+This Java application is a console-based program that emulates a student enrollment system for a college. In this application the user can do each of the following tasks:
 
 1. Create a course
 2. Add a student to a course
