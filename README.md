@@ -1,4 +1,4 @@
-# Student-Management-System
+# Student-Management-System - Fall 2023
 
 This Java application is a console-based program that emulates a student enrollment system for a college. In this application the user can do each of the following tasks:
 
